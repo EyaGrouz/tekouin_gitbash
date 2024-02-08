@@ -1,1 +1,1 @@
-file  /temp/tekouin
+file  /tmp/tekouin
