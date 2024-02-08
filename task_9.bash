@@ -1,4 +1,4 @@
 while IFS=: read -r f1 f2 f3 f4 f5 f6 f7
 do 
- echo "$f1:$f2:$f3:$f4:$f5:$f6:$f7"
+ echo " The user $f1 is part of the $f4 gang, lives in $f6 and rides COMMAND/SHELL. $f3's place is protected by the passcode $f2, more info about the user here: $f5"
 done < /etc/passwd
