@@ -1,1 +1,1 @@
-file --extension /tmp/tekouin
+file  /tmp/tekouin
